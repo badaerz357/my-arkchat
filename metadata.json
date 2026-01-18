@@ -1,0 +1,7 @@
+{
+  "name": "PRTS Terminal - Rhodes Island",
+  "description": "An Arknights-themed tactical chat terminal featuring operator roleplay, voice synthesis, and neural network connectivity.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
